@@ -99,7 +99,7 @@ DeviceNetworkEvents
 
 ## Chronological Event Timeline 
 
-###3:52:03 PM – Recent File Shortcut 
+### 3:52:03 PM – Recent File Shortcut 
 
 - Created Windows created a recent-file shortcut:
 -- C:\Users\vicone\AppData\Roaming\Microsoft\Windows\Recent\TORinst.lnk
