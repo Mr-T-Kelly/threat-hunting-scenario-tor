@@ -45,7 +45,7 @@ DeviceFileEvents
 
 ### 2. Searched the `DeviceProcessEvents` Table
 
-Searched for any `ProcessCommandLine` that contained the string "tor-browser-windows-x86_64-portable-14.0.1.exe". Based on the logs returned, at `2024-11-08T22:16:47.4484567Z`, an employee on the "threat-hunt-lab" device ran the file `tor-browser-windows-x86_64-portable-14.0.1.exe` from their Downloads folder, using a command that triggered a silent installation.
+Searched for any ProcessCommandLine that contained the string “tor-browser-windows-x86_64-portable-15.0.13.exe”. Based on the logs returned at 2026-06-02T19:54:58.7912258Z, User vicone executed the Tor Browser Portable 15.0.13 installer from their Downloads directory on device litefoot. The installer was launched with the /S silent installation switch, indicating an unattended or automated installation of the Tor Browser software. No evidence from this event alone indicates malicious activity, but the use of anonymity software may warrant additional review depending on organizational policy.
 
 **Query used to locate event:**
 
