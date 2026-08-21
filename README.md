@@ -124,7 +124,7 @@ Files observed include:
 - **● Tor-Launcher.txt**
 - ● Torbutton.txt
 -- ● tor.txt
--- tor.exe
+-- ***tor.exe***
 These file creation events indicate that the Tor Browser package was successfully extracted and installed.
 - **Action:** FileCreated
 - **File Path:** C:\Users\vicone\Desktop\Tor Browser\
