@@ -121,7 +121,7 @@ The /S switch indicates a silent or unattended installation.
 - **Timestamp:** 3:55:12 PM
 - **Event:** Several Tor-related files were created on the desktop as part of the installation
 Files observed include:
-● Tor-Launcher.txt
+**● Tor-Launcher.txt**
 ● Torbutton.txt
 ● tor.txt
 ● tor.exe
