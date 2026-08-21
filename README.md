@@ -168,7 +168,7 @@ This process is responsible for establishing encrypted connections into the Tor 
 - ***- Utility processes*** 
 - ***- GPU process*** 
 - ***- RDD process (media decoding)*** 
-These are normal components of a modern Firefox-based browser and indicate that Tor Browser initialized successfully. 
+- These are normal components of a modern Firefox-based browser and indicate that Tor Browser initialized successfully. 
 - **Action:** ProcessCreated 
 - **Executable:** firefox.exe
 
