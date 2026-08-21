@@ -129,6 +129,21 @@ Files observed include:
 - **Action:** FileCreated
 - **File Path:** C:\Users\vicone\Desktop\Tor Browser\
 
+### 4. Tor Browser Shortcut Created
+- **Timestamp:** 3:55:17 PM 
+- **Event:** A desktop shortcut was created:
+This confirms completion of the installation process and creation of a launch shortcut.
+- **Action:** FileCreated
+- **File Path:** C:\Users\vicone\Desktop\Tor Browser\Tor Browser.lnk
+  
+### 5. Tor Browser Launched
+- **Timestamp:** 3:55:23 PM
+- **Event:** Two instances of firefox.exe were started from the
+Tor Browser installation directory. Tor Browser is built on Firefox, so these process creation events indicate the browser was opened by the user.
+**Action:** ProcessCreated
+**Executable:** firefox.exe
+
+
 ### 1. File Download - TOR Installer
 
 - **Timestamp:** `2024-11-08T22:14:48.6065231Z`
