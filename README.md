@@ -122,7 +122,7 @@ The /S switch indicates a silent or unattended installation.
 - **Event:** Several Tor-related files were created on the desktop as part of the installation
 Files observed include:
 - **● Tor-Launcher.txt**
-- ● Torbutton.txt
+- ***● Torbutton.txt***
 -- ● tor.txt
 -- ***tor.exe***
 These file creation events indicate that the Tor Browser package was successfully extracted and installed.
