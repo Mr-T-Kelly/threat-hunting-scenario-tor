@@ -139,7 +139,8 @@ This confirms completion of the installation process and creation of a launch sh
 ### 5. Tor Browser Launched
 - **Timestamp:** 3:55:23 PM
 - **Event:** Two instances of firefox.exe were started from the
-Tor Browser installation directory. Tor Browser is built on Firefox, so these process creation events indicate the browser was opened by the user.
+Tor Browser installation directory. Tor Browser is built on Firefox, so these process creation events indicate the browser
+was opened by the user.
 **Action:** ProcessCreated
 **Executable:** firefox.exe
 
