@@ -107,7 +107,7 @@ DeviceNetworkEvents
 - **Action:** FileCreated File: TORinst.lnk
 - **File Path** C:\Users\vicone\AppData\Roaming\Microsoft\Windows\Recent\TORinst.lnk
 
- – Tor Browser Installer Executed
+### 2. Tor Browser Installer Executed
  - **Timestamp:** 3:54:58 PM
  - **Event:** User vicone executed the Tor Browser Portable installer from the Downloads directory: 
 C:\Users\vicone\Downloads\tor-browser-windows-x86_64-portable-15.0.13.exe 
@@ -116,7 +116,18 @@ tor-browser-windows-x86_64-portable-15.0.13.exe /S
 The /S switch indicates a silent or unattended installation. 
 - **Action:** ProcessCreated
 - **File Path:** C:\Users\vicone\Downloads\tor-browser-windows-x86_64-portable-15.0.13.exe
-- **User:** vicone
+  
+### 3. Tor Browser Files Installed
+- **Timestamp:** 3:55:12 PM
+- **Event:** Several Tor-related files were created on the desktop as part of the installation
+Files observed include:
+● Tor-Launcher.txt
+● Torbutton.txt
+● tor.txt
+● tor.exe
+These file creation events indicate that the Tor Browser package was successfully extracted and installed.
+- **Action:** FileCreated
+- **File Path:** C:\Users\vicone\Desktop\Tor Browser\
 
 ### 1. File Download - TOR Installer
 
