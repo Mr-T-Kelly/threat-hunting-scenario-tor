@@ -99,13 +99,24 @@ DeviceNetworkEvents
 
 ## Chronological Event Timeline 
 
-###  – 1. Recent File Shortcut 
+### 1. Recent File Shortcut 
 
 - **Timestamp:** 3:52:03 PM
 - **Event:** Created Windows created a recent-file shortcut:
   This indicates the user accessed a file named TORinst, likely associated with a Tor installation package.
 - **Action:** FileCreated File: TORinst.lnk
 - **File Path** C:\Users\vicone\AppData\Roaming\Microsoft\Windows\Recent\TORinst.lnk
+
+ – Tor Browser Installer Executed
+ - **Timestamp:** 3:54:58 PM
+ - **Event:** User vicone executed the Tor Browser Portable installer from the Downloads directory: 
+C:\Users\vicone\Downloads\tor-browser-windows-x86_64-portable-15.0.13.exe 
+The installer was launched with the command: 
+tor-browser-windows-x86_64-portable-15.0.13.exe /S 
+The /S switch indicates a silent or unattended installation. 
+- **Action:** ProcessCreated
+- **File Path:** C:\Users\vicone\Downloads\tor-browser-windows-x86_64-portable-15.0.13.exe
+- **User:** vicone
 
 ### 1. File Download - TOR Installer
 
