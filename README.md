@@ -141,8 +141,8 @@ This confirms completion of the installation process and creation of a launch sh
 - **Event:** Two instances of firefox.exe were started from the
 Tor Browser installation directory. Tor Browser is built on Firefox, so these process creation events indicate the browser
 was opened by the user.
-**Action:** ProcessCreated
-**Executable:** firefox.exe
+- **Action:** ProcessCreated
+- **Executable:** firefox.exe
 
 
 ### 1. File Download - TOR Installer
