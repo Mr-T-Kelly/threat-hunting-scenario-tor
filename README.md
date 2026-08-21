@@ -99,8 +99,9 @@ DeviceNetworkEvents
 
 ## Chronological Event Timeline 
 
-### 3:52:03 PM – Recent File Shortcut 
+###  – 1. Recent File Shortcut 
 
+- **Timestamp:** 3:52:03 PM
 - Created Windows created a recent-file shortcut:
 -- C:\Users\vicone\AppData\Roaming\Microsoft\Windows\Recent\TORinst.lnk
   This indicates the user accessed a file named TORinst, likely associated with a Tor installation package.
