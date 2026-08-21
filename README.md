@@ -144,6 +144,33 @@ was opened by the user.
 - **Action:** ProcessCreated
 - **Executable:** firefox.exe
 
+### 6. Browser Support Processes Spawned 
+- **Timestamp:** 3:55:25 PM
+- **Event:** A Firefox GPU process was launched. 
+This is a normal browser component used for graphics rendering. 
+- **Action:** ProcessCreated 
+- **Executable:** firefox.exe
+
+### 7. Tor Service Started 
+- **Timestamp:** 3:55:26 PM
+- **Event:** The Tor networking component was launched:
+tor.exe 
+The command line shows Tor was started using the default Tor Browser configuration files and local SOCKS proxy settings: 
+127.0.0.1:9150 
+This process is responsible for establishing encrypted connections into the Tor network. 
+- **Action:** ProcessCreated 
+- **Executable:** tor.exe
+
+### 8. Additional Tor Browser Processes Spawned
+- **Timestamp:** 3:55:26 PM – 3:55:27 PM
+- **Event:** Multiple Firefox child processes were launched, including:
+- ***- Browser tab processes*** 
+- ***- Utility processes*** 
+- ***- GPU process*** 
+- ***- RDD process (media decoding)*** 
+These are normal components of a modern Firefox-based browser and indicate that Tor Browser initialized successfully. 
+- **Action:** ProcessCreated 
+- **Executable:** firefox.exe
 
 ### 1. File Download - TOR Installer
 
