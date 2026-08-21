@@ -102,11 +102,10 @@ DeviceNetworkEvents
 ###  – 1. Recent File Shortcut 
 
 - **Timestamp:** 3:52:03 PM
-- Created Windows created a recent-file shortcut:
--- C:\Users\vicone\AppData\Roaming\Microsoft\Windows\Recent\TORinst.lnk
+- **Event:** Created Windows created a recent-file shortcut:
   This indicates the user accessed a file named TORinst, likely associated with a Tor installation package.
-
-Action: FileCreated File: TORinst.lnk
+- **Action:** FileCreated File: TORinst.lnk
+- **File Path** C:\Users\vicone\AppData\Roaming\Microsoft\Windows\Recent\TORinst.lnk
 
 ### 1. File Download - TOR Installer
 
