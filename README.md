@@ -225,6 +225,6 @@ Overall, the available telemetry confirms the complete sequence of Tor Browser a
 
 ## Response Taken
 
-TOR usage was confirmed on the endpoint `threat-hunt-lab` by the user `employee`. The device was isolated, and the user's direct manager was notified.
+TOR usage was confirmed on endpoint litefoot by the user vicone. The device was isolated and the user's direct manager was notified.
 
 ---
