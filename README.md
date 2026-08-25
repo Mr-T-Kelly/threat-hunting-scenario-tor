@@ -192,6 +192,16 @@ Observed activity included:
 - **Action:** ProcessCreated 
 - **Executable:** firefox.exe
 
+### 11. Tor-Related Text File Created
+- **Timestamp:** 4:08:20 PM
+- **Event:** A file named: Tor_shopping_list.txt
+ was created via a file rename operation. 
+A corresponding Windows Recent Items shortcut was also created: 
+Tor_shopping_list.lnk 
+This indicates the file was likely opened or interacted with by the user shortly after creation. 
+- **Action:** File Created
+- **File Path:** C:\Users\vicone\Desktop\Tor_shopping_list.txt
+
 ### 1. File Download - TOR Installer
 
 - **Timestamp:** `2024-11-08T22:14:48.6065231Z`
