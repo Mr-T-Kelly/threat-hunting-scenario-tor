@@ -181,6 +181,17 @@ Port 9001 is commonly used by Tor relay nodes.
  - **Action:** ConnectionSuccess
 - **Executable:** tor.exe
 
+### 10. Continued Browser Activity
+- **Timestamp:** 3:57 PM – 4:05 PM
+- **Event:** Additional Firefox/Tor Browser processes continued to spawn. The timestamps indicate Tor Browser remained open and in use for at least approximately 10 minutes after launch.
+Observed activity included: 
+- ***- Additional tab processes*** 
+- ***- Browser content processes*** 
+- ***- User interaction with the browser*** 
+ 
+- **Action:** ProcessCreated 
+- **Executable:** firefox.exe
+
 ### 1. File Download - TOR Installer
 
 - **Timestamp:** `2024-11-08T22:14:48.6065231Z`
