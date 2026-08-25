@@ -172,6 +172,15 @@ This process is responsible for establishing encrypted connections into the Tor 
 - **Action:** ProcessCreated 
 - **Executable:** firefox.exe
 
+### 9. Successful Connection to Tor Network
+- **Timestamp:** 3:55:58 PM 
+- **Event:** The Tor process successfully established a network connection. This event confirms that Tor Browser successfully connected to the Tor network and was operational.  
+- **Remote IP:** 65.21.94.13 
+- **Remote Port:** 9001 
+Port 9001 is commonly used by Tor relay nodes. 
+ - **Action:** ConnectionSuccess
+- **Executable:** tor.exe
+
 ### 1. File Download - TOR Installer
 
 - **Timestamp:** `2024-11-08T22:14:48.6065231Z`
